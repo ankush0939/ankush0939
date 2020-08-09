@@ -15,6 +15,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning UI/UX development
 - 👯 I’m looking to collaborate on WebDevelopment
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918018655222)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I dont need semicolons
 
@@ -22,8 +23,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][git]
 [<img align="left" alt="C" width="26px" src="https://github.com/github/explore/blob/master/topics/c/c.png" />][git]
@@ -43,3 +44,5 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ankush0939&show_icons=true&hide_border=true" />
 
+[website]: https://ankush0939.github.io/mycv/
+[git]: https://github.com/ankush0939
