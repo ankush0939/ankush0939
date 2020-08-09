@@ -1,5 +1,4 @@
-### Hi there 👋
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Ankush 👋
 
 ## I'm a Compititive Coder , Developer, and Designer!
 - 🔭 I’m currently working on ...
