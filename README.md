@@ -1,29 +1,22 @@
 ### Hi there, I'm Ankush 👋
 
----
+### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@prasenjitghose36-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PrasenjitGhose7)](https://twitter.com/PrasenjitGhose7) [![Linkedin Badge](https://img.shields.io/badge/-prasenjitghose36-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasenjit-ghose-344a47183/)](https://www.linkedin.com/in/prasenjit-ghose-344a47183/) <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)-->[![Facebook Badge](https://img.shields.io/badge/-@prasenjitghose36-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/prasenjit.ghose.90)](https://www.facebook.com/prasenjit.ghose.90) [![Instagram Badge](https://img.shields.io/badge/-@prasenjitghose36-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://www.instagram.com/prasenjitghose36/)](https://www.instagram.com/prasenjitghose36/)
-[![Gmail Badge](https://img.shields.io/badge/-prasenjitghose36@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prasenjitghose36@gmail.com)](mailto:prasenjitghose36@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ankush0939-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/iam_ankush_09)](https://twitter.com/iam_ankush_09) 
+[![Linkedin Badge](https://img.shields.io/badge/-@ankush0939-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ankush-mishra-b549ba197/)](https://linkedin.com/in/ankush-mishra-b549ba197/) <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)-->
+[![Facebook Badge](https://img.shields.io/badge/-@ankush0939-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/prasenjit.ghose.90)](https://www.facebook.com/prasenjit.ghose.90) 
+[![Instagram Badge](https://img.shields.io/badge/-@ankush0939-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://instagram.com/iam_ankush09/)](https://instagram.com/iam_ankush09/)
+[![Gmail Badge](https://img.shields.io/badge/-ankushmishra0939@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankushmishra0939@gmail.com)](ankushmishra0939@gmail.com)
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
-[![GitHub followers](https://img.shields.io/github/followers/prasenjitghose36?label=Follow&style=social)](https://github.com/prasenjitghose36/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/ankush0939?label=Follow&style=social)](https://github.com/ankush0939/?tab=follow)
 
----
 
 ## I'm a Compititive Coder , Developer, and Designer!
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning UI/UX development
 - 👯 I’m looking to collaborate on WebDevelopment
-- 📫 How to reach me: ankushmishra0939@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I dont need semicolons
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<!--[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
