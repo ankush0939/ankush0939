@@ -1,7 +1,5 @@
 # Hi there, I'm Ankush 👋
 
----
-
 ## Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-@iam_ankush_09-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/iam_ankush_09)](https://twitter.com/iam_ankush_09) 
 [![Linkedin Badge](https://img.shields.io/badge/-@AnkushMishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ankush-mishra-b549ba197/)](https://linkedin.com/in/ankush-mishra-b549ba197/) <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)-->
@@ -11,6 +9,7 @@
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
 [![GitHub followers](https://img.shields.io/github/followers/ankush0939?label=Follow&style=social)](https://github.com/ankush0939/?tab=follow)
 
+---
 
 ## I'm a Compititive Coder , Developer, and Designer!
 - 🔭 I’m currently working on Flutter
