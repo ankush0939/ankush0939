@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning UI/UX development
 - 👯 I’m looking to collaborate on WebDevelopment
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918018655222)
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919090519299)
 - 😄 Pronouns: He
 - ⚡ Fun fact: I dont need semicolons
 
