@@ -1,4 +1,5 @@
-### Hi there, I'm Ankush 👋
+# Hi there, I'm Ankush 👋
+---
 
 ## Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-@iam_ankush_09-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/iam_ankush_09)](https://twitter.com/iam_ankush_09) 
@@ -20,6 +21,9 @@
 
 <br />
 
+## About Me:
+I am an undergrad in Computer Science and Engineering at Veer Sureendra Sai University of Technology. I like to explore and wwork with latest technologies. Doesn't matter How much you know, there is always more waiting for you. #knowledgelust_forever.
+
 ## Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
@@ -40,6 +44,7 @@
 <br />
 <br />
 
+## My Github Stats:
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ankush0939&show_icons=true&hide_border=true" />
 
 [website]: https://ankush0939.github.io/mycv/
