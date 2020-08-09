@@ -1,7 +1,6 @@
 ### Hi there, I'm Ankush 👋
 
-### Connect with me:
-
+## Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-@iam_ankush_09-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/iam_ankush_09)](https://twitter.com/iam_ankush_09) 
 [![Linkedin Badge](https://img.shields.io/badge/-@AnkushMishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ankush-mishra-b549ba197/)](https://linkedin.com/in/ankush-mishra-b549ba197/) <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)-->
 [![Facebook Badge](https://img.shields.io/badge/-@AnkushMishra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/ankush.mishra.180625)](https://www.facebook.com/ankush.mishra.180625) 
@@ -21,8 +20,7 @@
 
 <br />
 
-### Languages and Tools:
-
+## Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][git]
