@@ -45,7 +45,10 @@ I am an undergrad in Computer Science and Engineering at Veer Sureendra Sai Univ
 <br />
 
 ## My Github Stats:
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ankush0939&show_icons=true&hide_border=true" />
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=ankush0939&show_icons=true&theme=radical&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankush0939&hide=css,html&theme=tokyonight&layout=compact">
+  </p>
 
 [website]: https://ankush0939.github.io/mycv/
 [git]: https://github.com/ankush0939
