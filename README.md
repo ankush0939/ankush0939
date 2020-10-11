@@ -1,12 +1,7 @@
 ![Header](https://github.com/ankush0939/ankush0939/blob/master/1.png)<!--(https://www.adamalston.com/)-->
 ## Connect with me:
-[![Twitter Badge](https://img.shields.io/badge/-@iam_ankush_09-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/iam_ankush_09)](https://twitter.com/iam_ankush_09) 
-[![Linkedin Badge](https://img.shields.io/badge/-@AnkushMishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ankush-mishra-b549ba197/)](https://linkedin.com/in/ankush-mishra-b549ba197/) <!--[![Medium Badge](https://img.shields.io/badge/-@sakshamtaneja-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sakshamtaneja/)](https://medium.com/@sakshamtaneja/)-->
-[![Facebook Badge](https://img.shields.io/badge/-@AnkushMishra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/ankush.mishra.180625)](https://www.facebook.com/ankush.mishra.180625) 
-[![Instagram Badge](https://img.shields.io/badge/-@iam_ankush09-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://instagram.com/iam_ankush09/)](https://instagram.com/iam_ankush09/)
-[![Gmail Badge](https://img.shields.io/badge/-@ankushmishra0939@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankushmishra0939@gmail.com)](mailto:ankushmishra0939@gmail.com)
-<!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
-[![GitHub followers](https://img.shields.io/github/followers/ankush0939?label=Follow&style=social)](https://github.com/ankush0939/?tab=follow)
+<a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/919090519299)</a> <a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ankush.mishra.180625)</a> <a>[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/iam_ankush09/)</a>  <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/iam_ankush_09)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://linkedin.com/in/ankush-mishra-b549ba197/)<!--</a> 
+<a>[<img src="https://img.shields.io/badge/medium-%230077B5.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@prasenjitghose36)</a>-->
 
 ---
 
