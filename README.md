@@ -8,17 +8,41 @@
 ---
 
 ## I'm a Compititive Coder , Developer, and Designer!
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning UI/UX development
-- 👯 I’m looking to collaborate on WebDevelopment
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919090519299)
-- 😄 Pronouns: He
-- ⚡ Fun fact: I dont need semicolons
+```toml
+
+[personal]
+name = 'Ankush Mishra'
+city = 'Burla, India'
+email = 'ankushmishra0939 "at" gmail.com'
+
+[professional]
+currently-employed = false
+title = 'Comp Sc. Undergrad'
+University = 'Veer Surendrs Sai University of Technology'
+
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'Full stack web development',
+  'Machine Learning',
+  'open-source',
+]
+programming-languages = [
+  'c/cpp',
+  'python',
+  'Java',
+  'Dart',
+]
+
+```
+
 
 <br />
 
-## About Me 😎:
-I am an undergrad in Computer Science and Engineering at Veer Sureendra Sai University of Technology. I like to explore and wwork with latest technologies. Doesn't matter How much you know, there is always more waiting for you. #knowledgelust_forever.
+<!--## About Me 😎:
+I am an undergrad in Computer Science and Engineering at Veer Sureendra Sai University of Technology. I like to explore and wwork with latest technologies. Doesn't matter How much you know, there is always more waiting for you. #knowledgelust_forever.-->
 
 ## Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
