@@ -1,4 +1,4 @@
-<img src="https://github.com/ankush0939/ankush0939/blob/master/profile%20banner.gif">
+<img src="https://github.com/ankush0939/ankush0939/blob/master/banner.gif">
 
 ## Connect with me:
 
