@@ -9,7 +9,7 @@
 
 ## I'm a Compititive Programmer , Developer, and Designer!
 
-<img height="500" width="450" align="right" alt="GIF" src="https://scontent.fbbi1-2.fna.fbcdn.net/v/t1.0-9/93312739_2577986012457314_1067897966943010816_o.jpg?_nc_cat=108&ccb=2&_nc_sid=a4a2d7&_nc_ohc=oplZB2p3nZkAX_0t2mB&_nc_oc=AQn372zpXQte9KoJ4WnOmjwC655Si2ee6TS-fbi0IaVxlnyGbJKXrEHTWmfDwMxibRo&_nc_ht=scontent.fbbi1-2.fna&oh=d9c5c7796999016ccf93b774b161b389&oe=5FE0F8D4" />
+<img height="500" width="450" align="right" alt="GIF" src="71916054_2413637318892185_3800266284172574720_o.jpg" />
 
 ```toml
 
