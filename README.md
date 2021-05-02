@@ -43,9 +43,11 @@ programming-languages = [
 
 ## My Github Stats:
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=ankush0939&show_icons=true&theme=radical&layout=compact">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankush0939&hide=css,html&theme=tokyonight&layout=compact"></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankush0939&" alt="santosh1901" /></p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankush0939&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush0939&theme=buefy&layout=compact" />
+</a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankush0939&" alt="santosh1901" /></p>
 
 [website]: https://ankush0939.github.io/mycv/
 [git]: https://github.com/ankush0939
