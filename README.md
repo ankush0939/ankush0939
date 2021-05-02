@@ -6,37 +6,6 @@
 
 ---
 
-## I'm a Compititive Programmer , Developer, and Designer!
-
-```toml
-
-[personal]
-name = 'Ankush Mishra'
-city = 'Burla, India'
-email = 'ankushmishra0939 "at" gmail.com'
-
-[professional]
-currently-employed = false
-title = 'Comp Sc. Undergrad'
-University = 'Veer Surendrs Sai University of Technology'
-
-[bio]
-categories = [
-  'generalist',
-]
-interests = [
-  'Full stack web development',
-  'Machine Learning',
-  'open-source',
-]
-programming-languages = [
-  'c/cpp',
-  'python',
-  'Java',
-  'Dart',
-]
-
-```
 
 
 <br />
